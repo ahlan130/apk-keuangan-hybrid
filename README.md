@@ -1,2 +1,2 @@
-# apk-keuangan-hybrid
-Aplikasi keuangan sekolah hybrid offline + sync online
+Kurniyah Jaya Store
+Aplikasi keuangan
